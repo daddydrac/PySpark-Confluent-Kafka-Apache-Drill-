@@ -1,5 +1,5 @@
-# Spark-Kafka-Drill-Docker
-A tutorial for production level Spark, Confluent Kafka, Drill using Docker
+# PySpark, Confluent Kafka, Apache Drill + Docker code example
+A tutorial on setting up production level data streams for PySpark, Confluent Kafka, & Drill using Docker
 
 Data samples:
 
